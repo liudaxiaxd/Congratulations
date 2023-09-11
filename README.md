@@ -1,1 +1,2 @@
-For my discrete mathematics teacher
+俺的密码学第一次作业
+（谁会干？把代码写到纸张上这种愚蠢的事情
